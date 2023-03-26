@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXf2NUvLPtE8YKba0vu+s0ksgq5Y3PDJSVtkHEXvmDpBExA6c9LtwsPJP+kQWptve1FjKO19kP00A2uM8W+bMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kostas\\Documents\\Projects\\ReactCore\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kostas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
