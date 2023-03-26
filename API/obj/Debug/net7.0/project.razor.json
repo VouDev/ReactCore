@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\kostas\\Documents\\Projects\\ReactCore\\API\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\kostas\\Documents\\Projects\\ReactCore\\API\\API.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "7.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "API",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
