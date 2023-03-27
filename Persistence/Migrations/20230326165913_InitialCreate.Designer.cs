@@ -6,17 +6,19 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Persistence;
 
-namespace Persistance.Migrations
+#nullable disable
+
+namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20211001095208_InitialCreate")]
+    [Migration("20230326165913_InitialCreate")]
     partial class InitialCreate
     {
+        /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder
-                .HasAnnotation("ProductVersion", "5.0.10");
+            modelBuilder.HasAnnotation("ProductVersion", "7.0.4");
 
             modelBuilder.Entity("Domain.Activity", b =>
                 {

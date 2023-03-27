@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Domain;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -18,13 +14,13 @@ namespace API.Controllers
             _context = context;
         }
 
-        [HttpGet]
+        [HttpGet]   // api/activities
         public async Task<ActionResult<List<Activity>>> GetActivities()
         {
             return await _context.Activities.ToListAsync();
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{id}")]   // api/activities/Guid
         public async Task<ActionResult<Activity>> GetActivity(Guid id)
         {
             return await _context.Activities.FindAsync(id);
