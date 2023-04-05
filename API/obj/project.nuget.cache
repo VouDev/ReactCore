@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SR9Mg/EMW+nXCMmNMkz2OOUKPtMFJ6Tfmcq6ZgV7RnBymlZzCgS3XpE3AMCOzGlKmD85oOx5dvo0furiMl2JTw==",
+  "dgSpecHash": "I1I+Zu9uE+F90Yw8Qf52kZ0sBYsN35FsRFjzGgtnMNfx3G65Xns+AnX+cEpnXcY3XXZ/bG5CTE1D89oX5xixKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kostas\\Documents\\Projects\\ReactCore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kostas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",

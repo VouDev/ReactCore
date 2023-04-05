@@ -1,3 +1,5 @@
+using Application.Activities;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
@@ -26,6 +28,8 @@ builder.Services.AddCors(opt =>
         policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000");
     }); 
 });
+
+builder.Services.AddMediatR(typeof(List.Handler));
 
 var app = builder.Build();
 
