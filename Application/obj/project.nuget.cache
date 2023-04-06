@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "8M2jchg0K6fdhDL/UXur2gwp2Ji55edOpxB5O6+HeBnOOGFa6hB8pbQoIZEDD0OGbKQYrSzMcS1Hk92IJ4S85w==",
+  "dgSpecHash": "lt2oziCOQKCGzFPRKHThjHavYsEf2ujHTbxcnqpDIBUNj9OcM9C36E9GER7yCAJ3dY3v6WQoh80YUnaRkjh/Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kostas\\Documents\\Projects\\ReactCore\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kostas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\kostas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\kostas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
